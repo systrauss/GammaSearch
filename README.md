@@ -4,7 +4,7 @@ GammaSearch
 Initial Commit
 ------------
 
-This initial commit is an old code, along with relevant input files, to search for gammas of interest. The main code, GammaSearch.cxx, has the old changes in place. The next sections will explain the end goal of this data modification, the list of changes that need to be made, and how they are to be made
+This initial commit is an old code, along with relevant input files, to search for gammas of interest. The main code, GammaSearch.cxx, has the old changes in place. The next sections will explain the end goal of this data modification, the list of changes that need to be made, and how they are to be made.
 
 ### Goal of the modification
 1. Identify *known* or *unknown* transitions within a certain energy range (centroid +/- some sigma)
@@ -24,7 +24,7 @@ This initial commit is an old code, along with relevant input files, to search f
 * It only needs to search up to the current state, and not farther.
 * Print out the flagged chain as it is found, go back up one level, and repeat until all transitions in that level are done, then go up again.
 
-Here is an idea for how the this would look printed out:
+Here is an idea for how this would look printed out:
 ```
 Transition A  
 Cascade 1  
@@ -48,3 +48,8 @@ Transition C2
 
 etc.
 ```
+
+Update at end of day, December 19, 2017
+---------
+
+Most of the main coding is done, however, the hard part, the recursion to get the cascades, is only partially done. There is a hude issue with it as it currently stands: the vector will just keep getting added to without clearing it. Need to find a way around that.
