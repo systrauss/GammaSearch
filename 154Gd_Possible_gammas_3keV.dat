@@ -1,0 +1,642 @@
+
+Possible line matches for the gamma energy 121.213 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+123.071000	  0.455200	  1.197000	123.071000	2  1		  0.000000	0  1
+
+Possible line matches for the gamma energy 139.665 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+141.357000	  0.230900	  0.729000	1911.544000	6  1		1770.187000	5  1
+136.980000	  0.002940	  0.000000	2386.000000	4  1		2249.020000	3  0
+
+Possible line matches for the gamma energy 160.784 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+161.756000	  0.464100	  0.490000	2073.300000	7  1		1911.544000	6  1
+158.510000	  0.000000	  0.000000	2403.800000	7  1		2245.290000	-1  0
+159.300000	  0.195500	  0.510000	2775.380000	11  -1		2616.080000	10  -1
+
+Possible line matches for the gamma energy 171.284 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+168.810000	  0.037560	  0.430000	1432.588000	5  1		1263.778000	4  1
+171.990000	  1.000000	  0.000000	2245.290000	-1  0		2073.300000	7  1
+171.990000	  0.000000	  0.400000	2309.470000	8  -1		2137.480000	7  -1
+
+Possible line matches for the gamma energy 180.71 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+180.765000	  0.000226	  0.350000	996.257000	2  1		815.492000	2  1
+180.820000	  0.301300	  0.340000	2254.120000	8  1		2073.300000	7  1
+180.310000	  0.484300	  0.350000	2955.690000	12  -1		2775.380000	11  -1
+
+Possible line matches for the gamma energy 191.111 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+188.254000	  0.008439	  0.072000	1719.559000	2  -1		1531.305000	2  1
+
+Possible line matches for the gamma energy 198.143 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+198.965000	  0.000637	  0.045900	1617.125000	3  -1		1418.160000	2  1
+199.000000	  0.000000	  0.000000	2272.300000	-1  0		2073.300000	7  1
+199.170000	  0.350600	  0.260000	2453.290000	9  1		2254.120000	8  1
+
+Possible line matches for the gamma energy 216.715 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+219.610000	  0.000508	  0.190000	1617.125000	3  -1		1397.515000	2  -1
+
+Possible line matches for the gamma energy 224.798 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+225.936000	  0.432100	  0.032900	2137.480000	7  -1		1911.544000	6  1
+
+Possible line matches for the gamma energy 232.122 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+232.100000	  0.079190	  0.135900	1047.592000	4  1		815.492000	2  1
+
+Possible line matches for the gamma energy 239.055 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+236.069000	  0.013670	  0.128700	1418.160000	2  1		1182.091000	0  1
+241.654000	  0.007112	  0.027800	1645.814000	4  1		1404.160000	5  -1
+
+Possible line matches for the gamma energy 247.861 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+247.929000	  0.901100	  0.109800	371.000000	4  1		123.071000	2  1
+245.034000	  0.001910	  0.026700	1241.291000	1  -1		996.257000	2  1
+245.970000	  0.039460	  0.162800	2468.450000	-1  0		2222.480000	2  1
+246.230000	  1.000000	  0.000000	2721.500000	-1  0		2475.270000	9  -1
+
+Possible line matches for the gamma energy 266.735 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+267.521000	  0.009347	  0.086200	1263.778000	4  1		996.257000	2  1
+269.713000	  0.000319	  0.020900	1397.515000	2  -1		1127.802000	3  1
+267.527000	  0.006653	  0.086200	1531.305000	2  1		1263.778000	4  1
+265.730000	  0.124700	  0.111000	1911.544000	6  1		1645.814000	4  1
+266.320000	  0.000000	  0.027000	2403.800000	7  1		2137.480000	7  -1
+
+Possible line matches for the gamma energy 283.207 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+283.230000	  0.053260	  0.072200	1701.390000	4  1		1418.160000	2  1
+
+Possible line matches for the gamma energy 296.708 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+296.142000	  0.003825	  0.016520	1559.920000	4  -1		1263.778000	4  1
+
+Possible line matches for the gamma energy 303.711 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+304.786000	  0.000000	  0.071000	1432.588000	5  1		1127.802000	3  1
+305.133000	  0.000720	  0.074000	1719.559000	2  -1		1414.426000	1  -1
+301.399000	  0.000435	  0.015750	1719.559000	2  -1		1418.160000	2  1
+304.994000	  0.045020	  0.057400	1911.544000	6  1		1606.550000	6  1
+303.113000	  0.287800	  0.072000	2073.300000	7  1		1770.187000	5  1
+303.220000	  0.000000	  0.000000	2215.300000	-1  0		1912.080000	-1  0
+303.220000	  0.000000	  0.000000	2440.700000	-1  0		2137.480000	7  -1
+
+Possible line matches for the gamma energy 306.374 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+304.786000	  0.000000	  0.071000	1432.588000	5  1		1127.802000	3  1
+308.279000	  0.004207	  0.073000	1559.920000	4  -1		1251.641000	3  -1
+305.133000	  0.000720	  0.074000	1719.559000	2  -1		1414.426000	1  -1
+304.994000	  0.045020	  0.057400	1911.544000	6  1		1606.550000	6  1
+
+Possible line matches for the gamma energy 318.748 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+318.286000	  0.225700	  0.061000	1365.878000	6  1		1047.592000	4  1
+
+Possible line matches for the gamma energy 333.856 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+332.683000	  0.209500	  0.012320	1573.974000	0  1		1241.291000	1  -1
+331.434000	  0.080560	  0.054000	1948.559000	5  -1		1617.125000	3  -1
+336.160000	  0.193700	  0.052000	2955.690000	12  -1		2619.530000	10  -1
+
+Possible line matches for the gamma energy 338.497 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+337.599000	  0.064760	  0.120000	1770.187000	5  1		1432.588000	5  1
+339.610000	  0.135600	  0.050000	2533.740000	-1  0		2194.130000	10  1
+339.610000	  0.135600	  0.050000	2955.690000	12  -1		2616.080000	10  -1
+336.160000	  0.193700	  0.052000	2955.690000	12  -1		2619.530000	10  -1
+
+Possible line matches for the gamma energy 347.093 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+346.662000	  0.962600	  0.038900	717.662000	6  1		371.000000	4  1
+349.214000	  0.012460	  0.038100	1531.305000	2  1		1182.091000	0  1
+
+Possible line matches for the gamma energy 368 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+366.599000	  0.172200	  0.033000	1182.091000	0  1		815.492000	2  1
+370.568000	  0.033590	  0.032000	1418.160000	2  1		1047.592000	4  1
+365.484000	  0.000637	  0.045000	1617.125000	3  -1		1251.641000	3  -1
+
+Possible line matches for the gamma energy 365 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+366.599000	  0.172200	  0.033000	1182.091000	0  1		815.492000	2  1
+365.484000	  0.000637	  0.045000	1617.125000	3  -1		1251.641000	3  -1
+364.180000	  0.010210	  0.040000	2080.230000	4  1		1716.050000	2  1
+
+Possible line matches for the gamma energy 380.506 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+382.036000	  0.054870	  0.040000	1645.814000	4  1		1263.778000	4  1
+382.534000	  0.003214	  0.029200	1796.960000	3  -1		1414.426000	1  -1
+378.800000	  0.005786	  0.008980	1796.960000	3  -1		1418.160000	2  1
+377.622000	  0.172700	  0.036000	1810.210000	7  1		1432.588000	5  1
+379.990000	  0.539400	  0.035000	2453.290000	9  1		2073.300000	7  1
+
+Possible line matches for the gamma energy 391.327 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+391.883000	  0.000000	  0.000000	1573.974000	0  1		1182.091000	0  1
+390.582000	  0.470600	  0.033000	1756.460000	8  1		1365.878000	6  1
+
+Possible line matches for the gamma energy 412.279 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+412.756000	  1.000000	  0.000000	2324.300000	-1  0		1911.544000	6  1
+
+Possible line matches for the gamma energy 427.348 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+426.778000	  0.979000	  0.021400	1144.440000	8  1		717.662000	6  1
+425.799000	  0.003355	  0.006810	1241.291000	1  -1		815.492000	2  1
+427.670000	  0.843500	  0.025000	2621.800000	12  1		2194.130000	10  1
+
+Possible line matches for the gamma energy 438.295 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+436.149000	  0.008070	  0.006440	1251.641000	3  -1		815.492000	2  1
+437.670000	  0.849700	  0.023000	2194.130000	10  1		1756.460000	8  1
+436.340000	  0.373400	  0.024000	2619.530000	10  -1		2183.190000	8  -1
+437.110000	  0.000000	  0.028000	2621.800000	12  1		2184.690000	12  1
+
+Possible line matches for the gamma energy 444.949 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+444.492000	  0.185800	  0.019100	815.492000	2  1		371.000000	4  1
+444.400000	  1.000000	  0.000000	2561.300000	-1  0		2116.900000	-1  0
+
+Possible line matches for the gamma energy 462.762 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+464.409000	  0.055010	  0.006500	1716.050000	2  1		1251.641000	3  -1
+463.666000	  0.015060	  0.024000	2080.791000	3  -1		1617.125000	3  -1
+
+Possible line matches for the gamma energy 468.811 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+467.918000	  0.002201	  0.023000	1719.559000	2  -1		1251.641000	3  -1
+470.790000	  0.096420	  0.029500	2590.340000	-1  0		2119.550000	-1  0
+470.430000	  0.000000	  0.000000	2779.900000	-1  0		2309.470000	8  -1
+
+Possible line matches for the gamma energy 479.811 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+478.268000	  0.007917	  0.015700	1719.559000	2  -1		1241.291000	1  -1
+478.956000	  0.120000	  0.022000	1911.544000	6  1		1432.588000	5  1
+
+Possible line matches for the gamma energy 493.614 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+492.610000	  0.985700	  0.014510	1637.050000	10  1		1144.440000	8  1
+
+Possible line matches for the gamma energy 511.547 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+512.328000	  0.034420	  0.004480	1559.920000	4  -1		1047.592000	4  1
+
+Possible line matches for the gamma energy 518.497 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+518.012000	  0.289600	  0.012900	1645.814000	4  1		1127.802000	3  1
+520.871000	  0.029400	  0.018000	2080.791000	3  -1		1559.920000	4  -1
+
+Possible line matches for the gamma energy 530.821 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+533.101000	  0.022150	  0.017000	1660.903000	3  1		1127.802000	3  1
+533.182000	  0.123400	  0.004700	1796.960000	3  -1		1263.778000	4  1
+
+Possible line matches for the gamma energy 533.98 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+535.048000	  0.029480	  0.016000	1531.305000	2  1		996.257000	2  1
+533.101000	  0.022150	  0.017000	1660.903000	3  1		1127.802000	3  1
+533.182000	  0.123400	  0.004700	1796.960000	3  -1		1263.778000	4  1
+
+Possible line matches for the gamma energy 537.595 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+535.048000	  0.029480	  0.016000	1531.305000	2  1		996.257000	2  1
+540.055000	  0.559600	  0.003970	2185.869000	4  -1		1645.814000	4  1
+
+Possible line matches for the gamma energy 540.788 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+540.055000	  0.559600	  0.003970	2185.869000	4  -1		1645.814000	4  1
+
+Possible line matches for the gamma energy 557.995 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+557.596000	  0.989600	  0.010530	680.667000	0  1		123.071000	2  1
+560.624000	  0.002633	  0.003650	1241.291000	1  -1		680.667000	0  1
+557.080000	  0.076470	  0.053000	2194.130000	10  1		1637.050000	10  1
+
+Possible line matches for the gamma energy 569.586 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+569.533000	  0.008641	  0.003530	1617.125000	3  -1		1047.592000	4  1
+
+Possible line matches for the gamma energy 584.294 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+582.023000	  0.024800	  0.003370	1397.515000	2  -1		815.492000	2  1
+
+Possible line matches for the gamma energy 611.967 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+613.311000	  0.111800	  0.012000	1660.903000	3  1		1047.592000	4  1
+612.020000	  0.155300	  0.061000	1756.460000	8  1		1144.440000	8  1
+
+Possible line matches for the gamma energy 642.867 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+642.385000	  0.185000	  0.010000	1770.187000	5  1		1127.802000	3  1
+
+Possible line matches for the gamma energy 649.277 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+648.216000	  0.560100	  0.045000	1365.878000	6  1		717.662000	6  1
+649.557000	  0.508000	  0.007220	1645.814000	4  1		996.257000	2  1
+647.627000	  0.012780	  0.010000	1775.429000	2  1		1127.802000	3  1
+647.766000	  0.163900	  0.008100	1911.544000	6  1		1263.778000	4  1
+
+Possible line matches for the gamma energy 653.863 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+653.798000	  0.313300	  0.010000	1701.390000	4  1		1047.592000	4  1
+653.870000	  0.019200	  0.000000	2989.890000	-1  0		2336.020000	3  -1
+
+Possible line matches for the gamma energy 666.277 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+664.646000	  0.031360	  0.010000	1660.903000	3  1		996.257000	2  1
+669.158000	  0.241100	  0.002510	1796.960000	3  -1		1127.802000	3  1
+665.770000	  0.150700	  0.010000	1810.210000	7  1		1144.440000	8  1
+
+Possible line matches for the gamma energy 676.965 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+676.592000	  0.606400	  0.053000	1047.592000	4  1		371.000000	4  1
+
+Possible line matches for the gamma energy 693.132 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+692.421000	  0.603500	  0.046000	815.492000	2  1		123.071000	2  1
+695.400000	  0.000000	  0.000000	2735.900000	-1  0		2040.500000	9  -1
+695.150000	  0.993200	  0.006800	2775.380000	11  -1		2080.230000	4  1
+
+Possible line matches for the gamma energy 697.863 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+696.918000	  0.181300	  0.006800	1948.559000	5  -1		1251.641000	3  -1
+695.400000	  0.000000	  0.000000	2735.900000	-1  0		2040.500000	9  -1
+695.150000	  0.993200	  0.006800	2775.380000	11  -1		2080.230000	4  1
+
+Possible line matches for the gamma energy 709.236 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+706.600000	  0.000000	  0.000000	2779.900000	-1  0		2073.300000	7  1
+
+Possible line matches for the gamma energy 715.275 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+714.926000	  0.191600	  0.008000	1432.588000	5  1		717.662000	6  1
+715.813000	  0.323800	  0.013000	1531.305000	2  1		815.492000	2  1
+
+Possible line matches for the gamma energy 723.646 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+723.302000	  0.705600	  0.002150	1719.559000	2  -1		996.257000	2  1
+722.595000	  0.048110	  0.007800	1770.187000	5  1		1047.592000	4  1
+722.035000	  0.228600	  0.000000	2119.550000	-1  0		1397.515000	2  -1
+
+Possible line matches for the gamma energy 741.07 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+741.578000	  0.117300	  0.007400	1789.170000	4  1		1047.592000	4  1
+
+Possible line matches for the gamma energy 746.583 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+749.368000	  0.113100	  0.001990	1796.960000	3  -1		1047.592000	4  1
+
+Possible line matches for the gamma energy 756.918 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+756.802000	  0.199500	  0.005160	1127.802000	3  1		371.000000	4  1
+758.482000	  0.368800	  0.005030	1573.974000	0  1		815.492000	2  1
+756.856000	  0.000000	  0.000000	2668.400000	-1  0		1911.544000	6  1
+
+Possible line matches for the gamma energy 767.342 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+765.970000	  0.206300	  0.002120	2950.660000	12  -1		2184.690000	12  1
+
+Possible line matches for the gamma energy 796.345 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+796.590000	  0.000000	  0.001950	2981.280000	13  -1		2184.690000	12  1
+
+Possible line matches for the gamma energy 802.857 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+801.633000	  0.003889	  0.001740	1617.125000	3  -1		815.492000	2  1
+800.703000	  0.321400	  0.001740	1796.960000	3  -1		996.257000	2  1
+
+Possible line matches for the gamma energy 815.626 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+815.492000	  0.173600	  0.004270	815.492000	2  1		  0.000000	0  1
+817.013000	  0.066690	  0.001850	2080.791000	3  -1		1263.778000	4  1
+
+Possible line matches for the gamma energy 844.391 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+845.411000	  0.681700	  0.003950	1660.903000	3  1		815.492000	2  1
+845.240000	  0.789500	  0.001730	2482.290000	11  -1		1637.050000	10  1
+
+Possible line matches for the gamma energy 873.26 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+873.186000	  0.525800	  0.003710	996.257000	2  1		123.071000	2  1
+872.449000	  0.274200	  0.001620	2113.740000	2  1		1241.291000	1  -1
+875.556000	  0.673200	  0.000000	2787.100000	-1  0		1911.544000	6  1
+
+Possible line matches for the gamma energy 880.437 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+880.641000	  0.215200	  0.001520	1251.641000	3  -1		371.000000	4  1
+878.259000	  0.083680	  0.000000	2119.550000	-1  0		1241.291000	1  -1
+
+Possible line matches for the gamma energy 888.392 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+888.888000	  0.697000	  0.003800	1606.550000	6  1		717.662000	6  1
+885.898000	  0.027880	  0.003560	1701.390000	4  1		815.492000	2  1
+888.242000	  0.000000	  0.003900	2254.120000	8  1		1365.878000	6  1
+
+Possible line matches for the gamma energy 892.956 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+892.778000	  0.667600	  0.003670	1263.778000	4  1		371.000000	4  1
+
+Possible line matches for the gamma energy 919.256 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+922.091000	  0.011190	  0.001450	2185.869000	4  -1		1263.778000	4  1
+921.594000	  0.061870	  0.003500	2336.020000	3  -1		1414.426000	1  -1
+
+Possible line matches for the gamma energy 924.398 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+924.521000	  0.235300	  0.003250	1047.592000	4  1		123.071000	2  1
+922.091000	  0.011190	  0.001450	2185.869000	4  -1		1263.778000	4  1
+921.594000	  0.061870	  0.003500	2336.020000	3  -1		1414.426000	1  -1
+
+Possible line matches for the gamma energy 942.589 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+943.592000	  0.000000	  0.010000	2309.470000	8  -1		1365.878000	6  1
+945.015000	  0.051950	  0.000000	2342.530000	-1  0		1397.515000	2  -1
+942.570000	  0.691300	  0.001390	2579.620000	10  -1		1637.050000	10  1
+
+Possible line matches for the gamma energy 956.799 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+956.438000	  0.998700	  0.001350	1674.100000	7  -1		717.662000	6  1
+
+Possible line matches for the gamma energy 963.467 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+964.455000	  0.581100	  0.000000	2495.760000	-1  0		1531.305000	2  1
+
+Possible line matches for the gamma energy 979.227 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+981.468000	  0.131800	  0.001280	1796.960000	3  -1		815.492000	2  1
+979.030000	  0.571800	  0.001290	2616.080000	10  -1		1637.050000	10  1
+
+Possible line matches for the gamma energy 982.776 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+983.728000	  0.288200	  0.003060	1701.390000	4  1		717.662000	6  1
+981.468000	  0.131800	  0.001280	1796.960000	3  -1		815.492000	2  1
+985.242000	  0.072040	  0.000000	2249.020000	3  0		1263.778000	4  1
+983.632000	  0.096100	  0.003800	2416.220000	4  1		1432.588000	5  1
+982.480000	  0.472600	  0.001280	2619.530000	10  -1		1637.050000	10  1
+984.750000	  0.135000	  0.003060	2621.800000	12  1		1637.050000	10  1
+
+Possible line matches for the gamma energy 995.418 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+996.257000	  0.456400	  0.002770	996.257000	2  1		  0.000000	0  1
+994.878000	  0.174700	  0.002990	1365.878000	6  1		371.000000	4  1
+993.040000	  0.337100	  0.001160	2137.480000	7  -1		1144.440000	8  1
+
+Possible line matches for the gamma energy 1004.31 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1004.731000	  0.794600	  0.002760	1127.802000	3  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1014.21 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1013.352000	  0.033220	  0.000000	2277.130000	3  0		1263.778000	4  1
+1016.154000	  0.092230	  0.000000	2430.580000	-1  0		1414.426000	1  -1
+
+Possible line matches for the gamma energy 1032.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1033.160000	  0.998900	  0.001070	1404.160000	5  -1		371.000000	4  1
+1033.199000	  0.322700	  0.001160	2080.791000	3  -1		1047.592000	4  1
+1033.065000	  0.097090	  0.000000	2430.580000	-1  0		1397.515000	2  -1
+
+Possible line matches for the gamma energy 1038.8 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1038.798000	  0.348200	  0.002720	1756.460000	8  1		717.662000	6  1
+1038.750000	  0.000000	  0.001150	2183.190000	8  -1		1144.440000	8  1
+
+Possible line matches for the gamma energy 1047.12 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1047.160000	  0.488200	  0.002500	1418.160000	2  1		371.000000	4  1
+1044.813000	  0.242700	  0.004120	2041.070000	-1  0		996.257000	2  1
+1049.690000	  0.050130	  0.002660	2194.130000	10  1		1144.440000	8  1
+
+Possible line matches for the gamma energy 1060.73 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1059.020000	  0.820100	  0.002440	1182.091000	0  1		123.071000	2  1
+1061.588000	  0.751300	  0.002510	1432.588000	5  1		371.000000	4  1
+1058.067000	  0.007834	  0.001110	2185.869000	4  -1		1127.802000	3  1
+
+Possible line matches for the gamma energy 1085.3 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1083.973000	  0.239200	  0.002490	2080.230000	4  1		996.257000	2  1
+1084.534000	  0.207200	  0.001060	2080.791000	3  -1		996.257000	2  1
+1084.379000	  0.060770	  0.003000	2336.020000	3  -1		1251.641000	3  -1
+
+Possible line matches for the gamma energy 1092.16 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1094.762000	  0.089490	  0.002280	1775.429000	2  1		680.667000	0  1
+1092.548000	  0.666900	  0.003000	1810.210000	7  1		717.662000	6  1
+1093.522000	  0.276800	  0.000000	2459.400000	-1  0		1365.878000	6  1
+
+Possible line matches for the gamma energy 1107.43 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1106.860000	  0.999000	  0.001020	2251.300000	9  -1		1144.440000	8  1
+1109.680000	  0.000000	  0.002900	2254.120000	8  1		1144.440000	8  1
+1105.092000	  0.052420	  0.000000	2368.870000	-1  0		1263.778000	4  1
+1109.392000	  0.000000	  0.004900	2475.270000	9  -1		1365.878000	6  1
+
+Possible line matches for the gamma energy 1117.39 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1118.220000	  0.474900	  0.000928	1241.291000	1  -1		123.071000	2  1
+
+Possible line matches for the gamma energy 1127.98 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1128.570000	  0.768600	  0.000914	1251.641000	3  -1		123.071000	2  1
+
+Possible line matches for the gamma energy 1140.04 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1140.707000	  0.304400	  0.002100	1263.778000	4  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1152.61 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1152.442000	  0.457600	  0.002700	2416.220000	4  1		1263.778000	4  1
+
+Possible line matches for the gamma energy 1158.99 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1160.305000	  0.080000	  0.002030	1531.305000	2  1		371.000000	4  1
+
+Possible line matches for the gamma energy 1187.36 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1188.920000	  0.956200	  0.000910	1559.920000	4  -1		371.000000	4  1
+
+Possible line matches for the gamma energy 1192.69 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1193.882000	  0.094650	  0.002500	1911.544000	6  1		717.662000	6  1
+1190.753000	  0.041350	  0.002500	2187.010000	1  1		996.257000	2  1
+1191.045000	  0.133100	  0.000000	2722.350000	-1  0		1531.305000	2  1
+
+Possible line matches for the gamma energy 1220.14 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1217.758000	  0.386700	  0.000000	2265.350000	-1  0		1047.592000	4  1
+
+Possible line matches for the gamma energy 1234.43 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1235.550000	  0.299700	  0.001910	1606.550000	6  1		371.000000	4  1
+1233.513000	  0.246400	  0.002300	2229.770000	2  1		996.257000	2  1
+1233.823000	  0.154100	  0.000000	2230.080000	-1  0		996.257000	2  1
+
+Possible line matches for the gamma energy 1239.18 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1241.291000	  0.516200	  0.000810	1241.291000	1  -1		  0.000000	0  1
+
+Possible line matches for the gamma energy 1264.16 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1261.938000	  0.469900	  0.001830	2309.530000	2  1		1047.592000	4  1
+
+Possible line matches for the gamma energy 1273.23 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1274.444000	  0.967700	  0.000797	1397.515000	2  -1		123.071000	2  1
+1274.814000	  0.010160	  0.002100	1645.814000	4  1		371.000000	4  1
+
+Possible line matches for the gamma energy 1290.69 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1291.355000	  0.759800	  0.000782	1414.426000	1  -1		123.071000	2  1
+1289.903000	  0.025220	  0.002100	1660.903000	3  1		371.000000	4  1
+1288.428000	  0.221000	  0.000830	2336.020000	3  -1		1047.592000	4  1
+1288.418000	  0.292900	  0.002100	2416.220000	4  1		1127.802000	3  1
+
+Possible line matches for the gamma energy 1299.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1297.243000	  0.148300	  0.002490	2293.500000	3  1		996.257000	2  1
+
+Possible line matches for the gamma energy 1312.25 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1309.523000	  0.022080	  0.002000	2305.780000	3  1		996.257000	2  1
+1313.273000	  0.528000	  0.002420	2309.530000	2  1		996.257000	2  1
+1314.960000	  0.276800	  0.000000	2459.400000	-1  0		1144.440000	8  1
+
+Possible line matches for the gamma energy 1330.46 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1330.390000	  0.235000	  0.002000	1701.390000	4  1		371.000000	4  1
+1333.318000	  0.194600	  0.000000	2148.810000	-1  0		815.492000	2  1
+
+Possible line matches for the gamma energy 1354.72 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1355.508000	  0.374500	  0.001900	2403.100000	4  1		1047.592000	4  1
+
+Possible line matches for the gamma energy 1368.65 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1371.518000	  0.035830	  0.001900	2187.010000	1  1		815.492000	2  1
+
+Possible line matches for the gamma energy 1376.42 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1374.034000	  0.179600	  0.000000	2788.460000	-1  0		1414.426000	1  -1
+
+Possible line matches for the gamma energy 1398.12 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1399.187000	  0.020350	  0.001800	1770.187000	5  1		371.000000	4  1
+1400.124000	  0.134800	  0.002750	2080.791000	3  -1		680.667000	0  1
+
+Possible line matches for the gamma energy 1418.65 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1418.160000	  0.066400	  0.001410	1418.160000	2  1		  0.000000	0  1
+1418.170000	  0.617400	  0.001700	1789.170000	4  1		371.000000	4  1
+1419.818000	  0.216100	  0.000754	2137.480000	7  -1		717.662000	6  1
+1419.963000	  0.151000	  0.001480	2416.220000	4  1		996.257000	2  1
+1421.222000	  0.326800	  0.000000	2787.100000	-1  0		1365.878000	6  1
+
+Possible line matches for the gamma energy 1431.79 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1433.073000	  0.142800	  0.001391	2113.740000	2  1		680.667000	0  1
+1433.528000	  0.144100	  0.000000	2249.020000	3  0		815.492000	2  1
+
+Possible line matches for the gamma energy 1453.75 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1450.903000	  0.099570	  0.001364	1573.974000	0  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1459.92 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1458.585000	  0.320000	  0.000000	2989.890000	-1  0		1531.305000	2  1
+
+Possible line matches for the gamma energy 1485.24 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1486.788000	  0.280600	  0.000000	2302.280000	-1  0		815.492000	2  1
+
+Possible line matches for the gamma energy 1492.81 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1494.054000	  0.440400	  0.000756	1617.125000	3  -1		123.071000	2  1
+1495.363000	  0.104300	  0.001850	2176.030000	1  1		680.667000	0  1
+1490.288000	  0.196300	  0.001600	2305.780000	3  1		815.492000	2  1
+
+Possible line matches for the gamma energy 1505.98 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1506.343000	  0.114800	  0.001830	2187.010000	1  1		680.667000	0  1
+
+Possible line matches for the gamma energy 1528.26 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1527.269000	  0.853300	  0.001269	1650.340000	0  1		123.071000	2  1
+1529.340000	  0.605500	  0.001270	1900.340000	2  1		371.000000	4  1
+1527.238000	  0.115500	  0.001500	2655.040000	2  1		1127.802000	3  1
+
+Possible line matches for the gamma energy 1540.49 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1537.832000	  0.068990	  0.001500	1660.903000	3  1		123.071000	2  1
+1540.544000	  0.013160	  0.001310	1911.544000	6  1		371.000000	4  1
+1541.813000	  0.136600	  0.001253	2222.480000	2  1		680.667000	0  1
+
+Possible line matches for the gamma energy 1550.07 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1549.103000	  0.157300	  0.001245	2229.770000	2  1		680.667000	0  1
+
+Possible line matches for the gamma energy 1572.29 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1573.974000	  0.000000	  0.000000	1573.974000	0  1		  0.000000	0  1
+1570.508000	  0.077170	  0.001280	2386.000000	4  1		815.492000	2  1
+
+Possible line matches for the gamma energy 1581.11 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1578.319000	  0.028820	  0.001220	1701.390000	4  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1594.69 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1592.979000	  0.183400	  0.001430	1716.050000	2  1		123.071000	2  1
+1596.488000	  0.063220	  0.002100	1719.559000	2  -1		123.071000	2  1
+1593.050000	  0.530300	  0.001430	1964.050000	2  1		371.000000	4  1
+1594.083000	  0.194500	  0.000000	2590.340000	-1  0		996.257000	2  1
+
+Possible line matches for the gamma energy 1601.69 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1602.070000	  0.674900	  0.001240	1973.070000	2  1		371.000000	4  1
+
+Possible line matches for the gamma energy 1651.17 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1650.340000	  0.000000	  0.000000	1650.340000	0  1		  0.000000	0  1
+1652.358000	  0.426200	  0.001360	1775.429000	2  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1665.51 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1666.099000	  0.234600	  0.001140	1789.170000	4  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1672.92 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1673.889000	  0.030530	  0.000820	1796.960000	3  -1		123.071000	2  1
+1674.758000	  0.133100	  0.000000	2722.350000	-1  0		1047.592000	4  1
+
+Possible line matches for the gamma energy 1692.52 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1693.188000	  0.204500	  0.001160	2410.850000	4  1		717.662000	6  1
+
+Possible line matches for the gamma energy 1701.03 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1703.143000	  1.000000	  0.000000	2699.400000	-1  0		996.257000	2  1
+
+Possible line matches for the gamma energy 1715.09 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1716.050000	  0.146700	  0.001109	1716.050000	2  1		  0.000000	0  1
+1713.539000	  0.466100	  0.001110	1836.610000	0  1		123.071000	2  1
+
+Possible line matches for the gamma energy 1740.42 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1742.740000	  0.093170	  0.001130	2113.740000	2  1		371.000000	4  1
+1741.738000	  0.446400	  0.000000	2459.400000	-1  0		717.662000	6  1
+1738.043000	  0.712300	  0.000000	2734.300000	-1  0		996.257000	2  1
+
+Possible line matches for the gamma energy 1777.98 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1775.429000	  0.196000	  0.001076	1775.429000	2  1		  0.000000	0  1
+
+Possible line matches for the gamma energy 1787.8 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+1789.009000	  0.877200	  0.000000	1912.080000	-1  0		123.071000	2  1

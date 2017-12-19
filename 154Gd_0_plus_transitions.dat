@@ -1,0 +1,129 @@
+Outgoing transitions for state at 680.667 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+557.596000	  0.989600	  0.010530	680.667000	0  1		123.071000	2  1
+680.667000	  0.000000	  0.000000	680.667000	0  1		  0.000000	0  1
+Incoming transitions for state at 680.667 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+134.825000	  0.002716	  0.859000	815.492000	2  1		680.667000	0  1
+315.590000	  0.000385	  0.051600	996.257000	2  1		680.667000	0  1
+501.424000	  0.000000	  0.000000	1182.091000	0  1		680.667000	0  1
+560.624000	  0.002633	  0.003650	1241.291000	1  -1		680.667000	0  1
+737.493000	  0.018060	  0.005360	1418.160000	2  1		680.667000	0  1
+850.638000	  0.421100	  0.003890	1531.305000	2  1		680.667000	0  1
+969.673000	  0.000000	  0.000000	1650.340000	0  1		680.667000	0  1
+1094.762000	  0.089490	  0.002280	1775.429000	2  1		680.667000	0  1
+1155.943000	  0.000000	  0.000000	1836.610000	0  1		680.667000	0  1
+1400.124000	  0.134800	  0.002750	2080.791000	3  -1		680.667000	0  1
+1433.073000	  0.142800	  0.001391	2113.740000	2  1		680.667000	0  1
+1495.363000	  0.104300	  0.001850	2176.030000	1  1		680.667000	0  1
+1506.343000	  0.114800	  0.001830	2187.010000	1  1		680.667000	0  1
+1541.813000	  0.136600	  0.001253	2222.480000	2  1		680.667000	0  1
+1549.103000	  0.157300	  0.001245	2229.770000	2  1		680.667000	0  1
+1768.533000	  0.234700	  0.000000	2449.200000	1  0		680.667000	0  1
+1909.673000	  0.422900	  0.000000	2590.340000	1  0		680.667000	0  1
+1974.373000	  0.083080	  0.001008	2655.040000	2  1		680.667000	0  1
+2041.683000	  0.283100	  0.000000	2722.350000	1  0		680.667000	0  1
+2107.793000	  0.111700	  0.000000	2788.460000	1  0		680.667000	0  1
+Outgoing transitions for state at 1182.09 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+366.599000	  0.172200	  0.033000	1182.091000	0  1		815.492000	2  1
+501.424000	  0.000000	  0.000000	1182.091000	0  1		680.667000	0  1
+1059.020000	  0.820100	  0.002440	1182.091000	0  1		123.071000	2  1
+1182.091000	  0.000000	  0.000000	1182.091000	0  1		  0.000000	0  1
+Incoming transitions for state at 1182.09 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+236.069000	  0.013670	  0.128700	1418.160000	2  1		1182.091000	0  1
+349.214000	  0.012460	  0.038100	1531.305000	2  1		1182.091000	0  1
+391.883000	  0.000000	  0.000000	1573.974000	0  1		1182.091000	0  1
+761.859000	  0.750600	  0.000000	1943.950000	1  0		1182.091000	0  1
+Outgoing transitions for state at 1352.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 1352.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 1497.7 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 1497.7 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 1573.97 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+332.683000	  0.209500	  0.012320	1573.974000	0  1		1241.291000	1  -1
+391.883000	  0.000000	  0.000000	1573.974000	0  1		1182.091000	0  1
+577.717000	  0.314600	  0.009630	1573.974000	0  1		996.257000	2  1
+758.482000	  0.368800	  0.005030	1573.974000	0  1		815.492000	2  1
+1450.903000	  0.099570	  0.001364	1573.974000	0  1		123.071000	2  1
+1573.974000	  0.000000	  0.000000	1573.974000	0  1		  0.000000	0  1
+Incoming transitions for state at 1573.97 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 1637.05 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+492.610000	  0.985700	  0.014510	1637.050000	0  1		1144.440000	8  1
+Incoming transitions for state at 1637.05 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+547.640000	  0.987700	  0.012500	2184.690000	2  1		1637.050000	0  1
+557.080000	  0.076470	  0.053000	2194.130000	0  1		1637.050000	0  1
+635.250000	  0.000000	  0.000000	2272.300000	1  0		1637.050000	0  1
+845.240000	  0.789500	  0.001730	2482.290000	1  -1		1637.050000	0  1
+942.570000	  0.691300	  0.001390	2579.620000	0  -1		1637.050000	0  1
+979.030000	  0.571800	  0.001290	2616.080000	0  -1		1637.050000	0  1
+982.480000	  0.472600	  0.001280	2619.530000	0  -1		1637.050000	0  1
+984.750000	  0.135000	  0.003060	2621.800000	2  1		1637.050000	0  1
+Outgoing transitions for state at 1650.34 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+834.848000	  0.145100	  0.004060	1650.340000	0  1		815.492000	2  1
+969.673000	  0.000000	  0.000000	1650.340000	0  1		680.667000	0  1
+1527.269000	  0.853300	  0.001269	1650.340000	0  1		123.071000	2  1
+1650.340000	  0.000000	  0.000000	1650.340000	0  1		  0.000000	0  1
+Incoming transitions for state at 1650.34 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 1836.61 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+595.319000	  0.345800	  0.003210	1836.610000	0  1		1241.291000	1  -1
+1155.943000	  0.000000	  0.000000	1836.610000	0  1		680.667000	0  1
+1713.539000	  0.466100	  0.001110	1836.610000	0  1		123.071000	2  1
+1836.610000	  0.186400	  0.000000	1836.610000	0  1		  0.000000	0  1
+Incoming transitions for state at 1836.61 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+ 63.730000	  0.026040	 14.120000	1900.340000	2  1		1836.610000	0  1
+127.440000	  0.005303	  1.040000	1964.050000	2  1		1836.610000	0  1
+Outgoing transitions for state at 1899.3 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 1899.3 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 1942.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 1942.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2039.8 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 2039.8 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2194.13 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+437.670000	  0.849700	  0.023000	2194.130000	0  1		1756.460000	8  1
+557.080000	  0.076470	  0.053000	2194.130000	0  1		1637.050000	0  1
+1049.690000	  0.050130	  0.002660	2194.130000	0  1		1144.440000	8  1
+Incoming transitions for state at 2194.13 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+427.670000	  0.843500	  0.025000	2621.800000	2  1		2194.130000	0  1
+Outgoing transitions for state at 2299.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 2299.9 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2485.1 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 2485.1 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2585.5 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+2462.429000	  0.999000	  0.000998	2585.500000	0  1		123.071000	2  1
+Incoming transitions for state at 2585.5 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2744.1 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+2621.029000	  0.999000	  0.001021	2744.100000	0  1		123.071000	2  1
+Incoming transitions for state at 2744.1 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Outgoing transitions for state at 2855 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
+Incoming transitions for state at 2855 keV
+Energy		Intensity	Conv. Coef.	Start Energy	Start Jp	 End Energy	End Jp
